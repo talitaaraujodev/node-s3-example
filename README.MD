@@ -15,7 +15,7 @@ sudo ./aws/install
 ### Windows
 
 **Download:** (https://awscli.amazonaws.com/AWSCLIV2.msi)
-Como alternativa, você pode executar o msiexeccomando para executar o instalador MSI
+Como alternativa, você pode executar o msiexec comando para executar o instalador MSI
 
 ```
 C:\> msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
