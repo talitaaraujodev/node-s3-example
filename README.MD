@@ -10,7 +10,7 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 
-### Verificar instalação
+## Verificar instalação
 
 ```
 aws --version
@@ -26,4 +26,4 @@ aws configure
 
 **gerar chave de acesso ao usuário e configurar access key id, secret access key e região**
 
-By Talita Araujo :wink::purple_heart:
+By Talita Araujo :purple_heart:
