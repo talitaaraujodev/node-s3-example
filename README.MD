@@ -4,10 +4,21 @@
 
 ## Install AWS
 
+### Linux
+
 ```
 $ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
 sudo ./aws/install
+```
+
+### Windows
+
+**Download:** (https://awscli.amazonaws.com/AWSCLIV2.msi)
+Como alternativa, você pode executar o msiexeccomando para executar o instalador MSI
+
+```
+C:\> msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 ```
 
 ## Verificar instalação
